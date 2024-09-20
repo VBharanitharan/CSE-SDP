@@ -1,2 +1,2 @@
-git gThis is my first  edited
+This is my first  edited
 file
